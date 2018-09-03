@@ -2,7 +2,7 @@
 Question: Given an array on integers as input[], produce as output[] another array such that output[i] contains the result of multiplying all numbers but input[i].
 
 Sample input: 5
-			  3 4 2 1 6
+	      3 4 2 1 6
 
 Sample output: 48 36 72 144 24
 */
